@@ -18,10 +18,10 @@ modules.
 ### 4. Choosing topic (final) :
 For training models (For the final project) the chosen object type to be detected is “Chocolates” (including wrappers). 
 ### 5. Data Collection :
-Images (data set) of chocolates were collected from ‘Roboflow’ website and folders were created to train the model.<br>
-**Screenshot for reference :**<br>
-![report1](https://github.com/user-attachments/assets/5d7506a9-ddf3-42f3-b01f-7d557a33ea61)
-
+Images (data set) of chocolates were collected from ‘Roboflow’ website and folders were created to train the model.<br> <br><br>
+**Screenshot for reference :**<br><br>
+![report1](https://github.com/user-attachments/assets/5d7506a9-ddf3-42f3-b01f-7d557a33ea61) <br>
+<br>
 ### 6. Labelling Images :
 The images are labelled and modified accoring to Robosflow workflow, making them suitable and ready for model training.
 
@@ -29,7 +29,7 @@ The images are labelled and modified accoring to Robosflow workflow, making them
 The model training is executed through online Robosflow Workflow method. It's in progress, as of now. <br>
 Few details :<br>
 **checkpoint:** COCOs<br>
-**Model type:** YOLOv11 Object Detection (Accurate)<br>
-**Screenshot for reference :**<br>
-![report2](https://github.com/user-attachments/assets/7194d9d9-37f7-4d73-9fdd-6762f0db9f2f)
+**Model type:** YOLOv11 Object Detection (Accurate)<br><br><br>
+**Screenshot for reference :**<br><br>
+![report2](https://github.com/user-attachments/assets/7194d9d9-37f7-4d73-9fdd-6762f0db9f2f) <br>
 
