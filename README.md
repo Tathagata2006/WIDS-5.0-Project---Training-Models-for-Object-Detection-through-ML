@@ -7,8 +7,8 @@ This includes the coding files created during learning, self-check assignments a
 **Project UID :** 11 <br>
 **Project-Owner ID :** 14 <br> <br>
 ### Mentor Details :
-**Name of Mentor :** Mahaswi Ganipisetty <br>
-**Roll No. of Mentor :** 24B1101 <br><br>
+**Name :** Mahaswi Ganipisetty <br>
+**Roll No. :** 24B1101 <br><br>
 
 ## Steps done so far & procedure followed (Midterm Submission) :-
 ### 1. Basic Learning :
