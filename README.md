@@ -2,10 +2,10 @@
 This includes the coding files created during learning, self-check assignments and the projet submission files regarding the WIDS project program conducted by the Finance Club of IIT Bombay.
 
 ### Mentee and Project Details :
-Name : Tathagata Roy
-Roll No. : 25B3954
-Project UID : 11
-Project-Owner ID : 14
+**Name :** Tathagata Roy <br>
+**Roll No. :** 25B3954 <br>
+**Project UID :** 11 <br>
+**Project-Owner ID :** 14 <br>
 
 ## Steps done so far & procedure followed (Midterm Submission) :-
 ### 1. Basic Learning :
