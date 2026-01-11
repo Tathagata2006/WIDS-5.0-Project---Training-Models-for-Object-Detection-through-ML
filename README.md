@@ -34,5 +34,7 @@ Few details :<br>
 **checkpoint:** COCOs<br>
 **Model type:** YOLOv11 Object Detection (Accurate)<br><br>
 **Screenshot for reference :**<br><br>
-![report2](https://github.com/user-attachments/assets/7194d9d9-37f7-4d73-9fdd-6762f0db9f2f) <br>
+![report2](https://github.com/user-attachments/assets/7194d9d9-37f7-4d73-9fdd-6762f0db9f2f) <br> <br>
+
+## Further Steps and Workflow (Endterm Submission) :-
 
