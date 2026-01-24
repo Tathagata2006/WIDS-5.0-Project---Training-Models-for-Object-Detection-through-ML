@@ -45,7 +45,7 @@ From across 25 websites, 100+ images were collected and made blurred and lowligh
 The new dataset was labeled and annotated using robosflow workspace to make it compatible with YOLO training procedure. The final dataset used for YOLO training is included in the repo.
 
 ### 9. Model Training through own YOLO Code :
-A Yolo code 'traun.py' was created to train the model for detecting chocolates, within proper confidence threshold limits. The code was run through 80 epochs with 146 images per epoch for a good training.
+A Yolo code 'train.py' was created to train the model for detecting chocolates, within proper confidence threshold limits. The code was run through 80 epochs with 146 images per epoch for a good training.
 
 ### 10. Testing and Validation :
 The 'test.py' file created was used to test the performance after the model was trained.  It predicted the chocolates in an image with proper bounding boxes and confidence scored were also mentioned alongside, depicting a specific and better result.
