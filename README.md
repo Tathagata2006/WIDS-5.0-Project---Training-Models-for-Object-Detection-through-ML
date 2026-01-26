@@ -39,13 +39,13 @@ Few details :<br>
 ## Further Steps and Workflow (Endterm Submission) :-
 
 ### 8. Modification of Dataset :
-From across 25 websites, 100+ images were collected and made blurred and lowlight using openCV functions (as suggested by mentor) for better performance in training. The code file is saved as 'blurred_dataset.py'.
+From across 25 websites, 100+ images were collected and made blurred and lowlight using openCV functions (as suggested by mentor) for better performance in training. The code file is saved as 'blurred_dataset.py'. All output blur images are present inside the "blur_output" folder (uploaded).
 
 ### 9. Annotation and Labeling  of New Dataset :
-The new dataset was labeled and annotated using robosflow workspace to make it compatible with YOLO training procedure. The final dataset used for YOLO training is included in the repo.
+The new dataset was labeled and annotated using robosflow workspace to make it compatible with YOLO training procedure. The final dataset used for YOLO training is included in the repo as "choco_dataset". It contains the images and labels in train or val subfolders for training and validation both the purposes.
 
 ### 9. Model Training through own YOLO Code :
 A Yolo code 'train.py' was created to train the model for detecting chocolates, within proper confidence threshold limits. The code was run through 80 epochs with 146 images per epoch for a good training.
 
 ### 10. Testing and Validation :
-The 'test.py' file created was used to test the performance after the model was trained.  It predicted the chocolates in an image with proper bounding boxes and confidence scored were also mentioned alongside, depicting a specific and better result.
+The 'test.py' file created was used to test the performance after the model was trained.  It predicted the chocolates in an image with proper bounding boxes and confidence scored were also mentioned alongside, depicting a specific and better result. The test produced output images on all images of folder 'test_images' and outputs are saved in "runs/detect/predict" folder (directory), thus producing satisfactory results.
