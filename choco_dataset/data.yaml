@@ -1,0 +1,15 @@
+path: choco_dataset
+
+train: images/train
+val: images/val
+
+nc: 2
+names: ['DairyMilk', 'chocolate']
+
+
+roboflow:
+  workspace: tr-9z5yr
+  project: chocolate-detection-lztg9
+  version: 1
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/tr-9z5yr/chocolate-detection-lztg9/dataset/1
